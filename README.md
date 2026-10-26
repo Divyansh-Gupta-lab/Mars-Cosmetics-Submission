@@ -151,3 +151,6 @@ Metrics and alerts we would setup on day one:
 Left out of v1:
  - Partial cancellations and returns. Only whole order cancellations are handled.
  - Cancellations after shipping. We dont track shipping state yet so these are handled manually.
+
+## AI tool usage
+Used it for market research and to make the architecture diagram. 
